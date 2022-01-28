@@ -1,8 +1,8 @@
 ## discord-python-bot
 Discord bot written in discord.py api for fun
 
-# Api's used so far:
-Wikipedia, and Discord
+# Api's used:
+Wikipedia and Discord
 
 # Cogs:
 Extensions that function as seperate commands. 
